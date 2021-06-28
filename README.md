@@ -31,6 +31,6 @@ A brief overview of the project:
 
 To check out my notebook, please click [here](https://github.com/Parth-Kacheria/Data-Analytics-Capstone-Project-on-User-Behaviour-in-the-Telecom-Industry/upload/main).
 
-To find me on Github, please click [here](https://github.com/Parth-Kacheria/).
+To find me on Github, please click [here](https://github.com/Parth-Kacheria/)
 
 ![enter image description here](https://www.insaid.co/wp-content/uploads/2019/09/logohalf2x.png)
