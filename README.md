@@ -22,14 +22,14 @@ The data schema can be represented as:
 
 Find the events dataset [here](https://drive.google.com/file/d/1Ir3rW0YTKmk7MSjVjCU_UGMQevhe1v9W/view).
 
-The other datasets can be found [here](https://github.com/Parth-Kacheria/Data-Analytics-Capstone-Project-on-User-Behaviour-in-the-Telecom-Industry/).
+The other datasets can be found [here](https://github.com/Parth-Kacheria/Data-Analytics-Capstone-Project-on-User-Behavior-in-the-Telecom-Industry/).
 
 A brief overview of the project:
 1. Understanding the Problem Statement. 
 2. Merging Datasets
 3. Exploratory Data Analysis
 
-To check out my notebook, please click [here](https://github.com/Parth-Kacheria/Data-Analytics-Capstone-Project-on-User-Behaviour-in-the-Telecom-Industry/upload/main).
+To check out my notebook, please click [here](https://github.com/Parth-Kacheria/Data-Analytics-Capstone-Project-on-User-Behavior-in-the-Telecom-Industry/upload/main).
 
 To find me on Github, please click [here](https://github.com/Parth-Kacheria/).
 
