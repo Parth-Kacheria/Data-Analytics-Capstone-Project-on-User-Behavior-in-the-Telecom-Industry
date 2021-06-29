@@ -30,7 +30,7 @@ A brief overview of the project:
 3. Exploratory Data Analysis
 4. Presentation of Data and Insights
 
-To check out my notebook, please click [here](https://github.com/Parth-Kacheria/Data-Analytics-Capstone-Project-on-User-Behavior-in-the-Telecom-Industry).
+To check out my notebook and presentation, please click [here](https://github.com/Parth-Kacheria/Data-Analytics-Capstone-Project-on-User-Behavior-in-the-Telecom-Industry).
 
 To find me on Github, please click [here](https://github.com/Parth-Kacheria/).
 
